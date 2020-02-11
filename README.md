@@ -1,7 +1,5 @@
 # 使用前后端分离的开发模式来完成SpringBoot+vue客户信息的展示
 
-
-
 ## 运行步骤：
 （1）创建customer_db数据库和customer_table表,修改数据库配置；  
 （2）启动springboot；  
