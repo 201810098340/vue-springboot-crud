@@ -3,7 +3,7 @@
 ## 运行步骤：
 （1）创建customer_db数据库和customer_table表,修改数据库配置；  
 （2）启动springboot；  
-（3）打开"前端代码/views/index.html".  
+（3）打开"前端代码/views/test/index.html".  
 
 > ### 开发环境和相关工具：
 >
